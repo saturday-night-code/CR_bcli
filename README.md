@@ -1,35 +1,25 @@
 <p align="center"><img src="https://avatars.githubusercontent.com/u/87999310" alt="saturday night code logo" width="122px" style="border-radius: 10px"/></p>
 
-<h1 align="center">LangAcronym_repo_name</h1>
+<h1 align="center">CR_bcli</h1>
 
-brief description about the project
+Creating a functional CLI in Crystal.
 
 ## What was used?
 
-[Lib/Framework - Creator](https://link-of-lib.com)
+[OptionParser - Crystal](https://crystal-lang.org/api/0.35.0/OptionParser.html)
 
 ## :runner: To run this project?
 
-- give instructions about to run the project
-
-- In project's root folder run: `cd LangAcronym_repo_name` and `python main.py`
+- In project's root folder run:
+  - `cd src/`
+  - `crystal run ./help.cr -- -h`
+  - `crystal run ./jajanken.cr -- -h`
 
 ## Contributing
 
-1. Fork it (<https://github.com/saturday-night-code/repository/fork>)
-2. Create your feature branch (`git checkout -b repo_name-type-feature`)
-3. Commit your changes (`git commit -am 'Type<Add|Fix|Review>: some feature'`)
-4. Push to the branch (`git push origin repo_name-type-feature`)
+1. Fork it (<https://github.com/saturday-night-code/CR_bcli/fork>)
+2. Create your feature branch (`git checkout -b CR_bcli-Type-feature`)
+3. Commit your changes (`git commit -am 'Type: some feature'`)
+   1. Available Types (replace in Type): Add|Fix|Review
+4. Push to the branch (`git push origin CR_bcli-Type-feature`)
 5. Create a new Pull Request
-
-## Contributors (optional)
-
-- [your_username](https://github.com/your_username) - creator and maintainer
-
-## Based On (optional)
-
-- [name_of_your_inspiration - creator](https://link-of-based_on.com)
-
-## ABOUT LICENSE (don't include me)
-
-preferably GPL 3.0
