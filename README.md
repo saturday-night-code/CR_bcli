@@ -1,6 +1,6 @@
 <p align="center"><img src="https://avatars.githubusercontent.com/u/87999310" alt="saturday night code logo" width="122px" style="border-radius: 10px"/></p>
 
-<h1 align="center">CR_bcli</h1>
+<h1 align="center">bcli</h1>
 
 Creating a functional CLI in Crystal.
 
