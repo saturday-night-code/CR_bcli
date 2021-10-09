@@ -17,9 +17,9 @@ Creating a functional CLI in Crystal.
 
 ## Contributing
 
-1. Fork it (<https://github.com/saturday-night-code/CR_bcli/fork>)
-2. Create your feature branch (`git checkout -b CR_bcli-Type-feature`)
+1. Fork it (<https://github.com/saturday-night-code/bcli/fork>)
+2. Create your feature branch (`git checkout -b bcli-Type-feature`)
 3. Commit your changes (`git commit -am 'Type: some feature'`)
    1. Available Types (replace in Type): Add|Fix|Review
-4. Push to the branch (`git push origin CR_bcli-Type-feature`)
+4. Push to the branch (`git push origin bcli-Type-feature`)
 5. Create a new Pull Request
